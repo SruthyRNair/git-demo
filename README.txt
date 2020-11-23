@@ -2,6 +2,7 @@
 
 Thi is the first file in this repo
 
-##Git Message
+##Website details
 
-this is second edit
+1. index.html 
+
